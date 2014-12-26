@@ -75,8 +75,10 @@
             			    echo '<a href="'.$facebook[2].'"><img src="'.$facebook[1].'" class="image" style=""></a>';
             			}
             			echo $facebook[0];
+				if(!empty($facebook[2])){
             			echo '<p><button class="btn btn-primary" href="'.$facebook[2].'">Lees meer op Facebook </button></p>';
-            			echo '</div></div>';}
+            			}
+				echo '</div></div>';}
             			?>
         		        <?PHP echo $articles; ?>
         		</div>
