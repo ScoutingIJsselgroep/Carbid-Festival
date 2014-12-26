@@ -18,7 +18,10 @@ class Facebook extends CI_Model {
 			if(!empty($post['message'])) {
 				
 		        $text = $post['message'];
-		        $link = $post['link'];
+		        	$link = '';
+				if(!empty($post['link'])){
+				$link = $post['link'];
+				}
 				$image = '';
 				if(!empty($post['picture'])) {
 		        	$image = $post['picture'];
