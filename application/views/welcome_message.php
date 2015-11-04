@@ -8,7 +8,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="<?PHP echo base_url('logo.png');?>"/>
     
-	<title><?PHP if(isset($title)){ echo urldecode($title).' |'; } ; ?> Carbidfestival</title>
+	<title><?PHP if(isset($title)){ echo urldecode($title).' |'; } ; ?> Carbid Festival</title>
 	
 	<link rel="stylesheet" type="text/css" href="<?PHP echo base_url('css/style.css');?>" />
     <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
@@ -35,7 +35,7 @@
 		    <a href="<?PHP echo site_url();?>">
 			<img class="sitelogo" src="<?PHP echo base_url('images/logo.png');?>"></a>
 			<div class="sitetitle">
-				<h1> Carbidfestival 2014</h1>
+				<h1> Carbid Festival 2015</h1>
 			</div>
 		</div>
 	</div>
