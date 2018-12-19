@@ -1,5 +1,62 @@
-RewriteEngine On
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php/%1 [QSA,L]
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    Redirect 301 /Home http://carbidfestival.nl
+    Redirect 301 /Geschiedenis http://carbidfestival.nl/geschiedenis
+    Redirect 301 /Info/Locatie http://carbidfestival.nl/info
+    Redirect 301 /Info http://carbidfestival.nl/info
+    Redirect 301 /Sponsoren http://carbidfestival.nl/sponsoren
+    Redirect 301 /Foto's http://carbidfestival.nl/media
+    Redirect 301 /Media http://carbidfestival.nl/media
+    Redirect 301 /Programma/Thema http://carbidfestival.nl/programma
+    Redirect 301 /Programma/Muziek http://carbidfestival.nl/programma
+    Redirect 301 /Programma http://carbidfestival.nl/programma
+    Redirect 301 "/De Tien" http://carbidfestival.nl/de-tien
+    Redirect 301 /m http://carbidfestival.nl
+    Redirect 301 /mobile http://carbidfestival.nl
+    
+	# www.domein.ext -> domein.ext 301 move permanent
+	RewriteCond %{HTTP_HOST} ^www\.([^\.]+\.[^\.0-9]+)$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+	RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+    RewriteRule ^(.*)$ public/$1 [PT,QSA]
+</IfModule>
+
+AddType application/x-font-woff woff
+AddType application/x-font-woff woff2
+
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-font-woff application/x-font-ttf
+
+ExpiresActive On
+ExpiresDefault "access plus 1 day"
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/jpg "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/x-icon "access plus 6 months"
+
+ExpiresByType application/javascript "access plus 1 week"
+ExpiresByType text/css "access plus 1 week"
+
+ExpiresByType text/html "access plus 1 hour"
+
+<FilesMatch "\.(woff2?|eot|ttf|svg)$">
+  ExpiresDefault "access plus 6 months"
+</FilesMatch>
+
+<ifModule mod_gzip.c>
+  mod_gzip_on Yes
+  mod_gzip_dechunk Yes
+  mod_gzip_item_include file \.(css|js)$
+  mod_gzip_item_include handler ^cgi-script$
+  mod_gzip_item_include mime ^text/.*
+  mod_gzip_item_include mime ^application/x-javascript.*
+  mod_gzip_item_exclude mime ^image/.*
+  mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</IfModule>

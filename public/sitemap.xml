@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://carbidfestival.nl/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/geschiedenis</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/programma</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/de-tien</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/sponsoren</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/merchandise</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/media</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/info</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://carbidfestival.nl/downloads/sponsorfolder.pdf</loc>
+  <lastmod>2015-11-16T11:46:09+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
