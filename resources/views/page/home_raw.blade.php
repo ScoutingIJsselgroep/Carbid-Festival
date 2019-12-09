@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="block text">
 			<h2>Boeren, burgers &amp; buitenlui,</h2>
-			<p>Welkom bij de website van het leukste Carbid Festival van de hele Oude Larenseweg in het Noord-West Achterhoeks dorpje Epse.</p>
+			<p>Welkom bij de website van het leukste Carbid Festival van de hele Hassinklaan in het Noord-West Achterhoeks dorpje Epse.</p>
 			<p>Op deze website voorzien we u van wat nuttige informatie over ons evenement, handig als u langs wilt komen, of ons misschien wilt bijdragen aan dit feest!<br />
 				Daarnaast voorzien we u natuurlijk ook van een gezonde dosis onzin om alvast een beetje in de stemming te komen.</p>
 		</div>

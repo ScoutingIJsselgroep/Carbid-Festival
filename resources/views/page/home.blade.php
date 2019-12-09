@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="block text">
 			<h2>Boeren, burgers &amp; buitenlui,</h2>
-			<p>Welkom bij de website van het leukste Carbid Festival van de hele Oude Larenseweg in het Noord-West Achterhoeks dorpje Epse.</p>
+			<p>Welkom bij de website van het leukste Carbid Festival van de hele Hassinklaan in het Noord-West Achterhoeks dorpje Epse.</p>
 			<p>Op deze website voorzien we u van wat nuttige informatie over ons evenement, handig als u langs wilt komen, of ons misschien wilt bijdragen aan dit feest!<br />
 				Daarnaast voorzien we u natuurlijk ook van een gezonde dosis onzin om alvast een beetje in de stemming te komen.</p>
 		</div>
@@ -17,30 +17,31 @@
 	</div>
 	
 	<div class="row">
-		<div class="block image cover">
-			<img src="img/navo.jpg" alt="Navo" />
+		<div class="block image contain">
+			<img src="img/verhuisd.jpg" alt="Verhuisd" />
 		</div>
 		<div class="block text">
-			<h2>Liever een raket in de tuin dan een Rus in de keuken</h2>
-			<p>We kunnen natuurlijk niet hebben dat de russen zich in de verkiezing van het thema gaan mengen. 
-				Of dat ze invloed willen uitoefenen op de afspeellijst van de muziek tijdens het Carbid Fesival</p>
-			<p>Daarom het thema voor 2018: Liever een raket in de tuin dan een Rus in de keuken</p>
-			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
+			<h2>Carbid Festival verhuisd!</h2>
+			<p>We hebben een nieuwe locatie. Dit jaar verruilen we onze vertroude plek aan de Oude Larenseweg voor een nieuwe plek aan de Hassinklaan. 
+				Zo ongeveer waar het paasvuur de laatste jaren plaats vond.</p>
+			<p>Hopelijk kunnen jullie allemaal de weg vinden en zien we jullie daar de 31e vanaf 13:00 uur.</p>
+			<p>Tot dan!</p>
+			<p>P.S. Wie heeft die gruwelijk lelijke verhuiskaart uitgezocht?</p>
 		</div>
 	</div>
 	
 	<div class="row">
 		<div class="block text">
-			<h2>Carbid Festival verhuisd?!</h2>
-			<p>Fake news!</p>
-			<p>Er zijn door ons geruchten geversprijd dat het Carbid Festival zou verhuizen.</p>
-			<p>Allemaal fake nieuws, ook op 31 december van 2018 is iedereen weer welkom aan de Oude Larenseweg.</p>
-			<p>Tot dan!</p>
+			<h2>Make buurt, not war!</h2>
+			<p>Een nieuwe plek voor het Carbid Fesival. Dat is ook weer een mooie gelegenheid voor een leuk thema dit jaar.</p>
+			<p>Daarom het thema voor 2018: Make buurt, not war!</p>
+			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
 		</div>
 		<div class="block image cover">
-			<img src="img/fake-news.jpg" alt="Fake news" />
+			<img src="img/make-buurt-breed.jpg" alt="Make buurt not war" />
 		</div>
 	</div>
+	
 	
 	<div class="row">
 		<div class="block image cover">
@@ -60,7 +61,6 @@
 	</div>
 </div>
 <script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","url": "http://carbidfestival.nl/","logo":"http://carbidfestival.nl/img/logo.png","sameAs":["https://www.facebook.com/carbidfestival","https://www.youtube.com/carbidfestival"]}</script>
-<script type="application/ld+json">{"@context":"http://schema.org","@type": "Event","name":"Carbid Festival 2015","startDate":"2015-12-31T13:00","endDate":"2015-12-31T18:00","url":"http://carbidfestival.nl/","sameAs":"https://www.facebook.com/events/185351965141617/","location":{"@type":"Place","name":"Carbid Festival Epse","address":"Oude Larenseweg in Epse nabij nummer 64 tussen de Koedijk en de Oxerweg"}}</script>
 @endsection
 
 @section('javascript')
