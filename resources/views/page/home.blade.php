@@ -34,7 +34,7 @@
 		<div class="block text">
 			<h2>Make buurt, not war!</h2>
 			<p>Een nieuwe plek voor het Carbid Fesival. Dat is ook weer een mooie gelegenheid voor een leuk thema dit jaar.</p>
-			<p>Daarom het thema voor 2018: Make buurt, not war!</p>
+			<p>Daarom het thema voor 2019: Make buurt, not war!</p>
 			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
 		</div>
 		<div class="block image cover">
