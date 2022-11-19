@@ -6,7 +6,7 @@
 <div class="blocked-page">
 	<div class="row">
 		<div class="block text">
-			<h2>Boeren, burgers &amp; buitenlui,</h2>
+			<h2>Boeren, burgers &amp; buitenlui!</h2>
 			<p>Welkom bij de website van het leukste Carbid Festival van de hele Hassinklaan in het Noord-West Achterhoeks dorpje Epse.</p>
 			<p>Op deze website voorzien we u van wat nuttige informatie over ons evenement, handig als u langs wilt komen, of ons misschien wilt bijdragen aan dit feest!<br />
 				Daarnaast voorzien we u natuurlijk ook van een gezonde dosis onzin om alvast een beetje in de stemming te komen.</p>
@@ -18,15 +18,13 @@
 	
 	<div class="row">
 		<div class="block image contain">
-			<img src="img/verhuisd.jpg" alt="Verhuisd" />
+			<img src="img/Op-kantoor-versus-thuiswerken.jpg" alt="Thuis werken" />
 		</div>
 		<div class="block text">
-			<h2>Carbid Festival verhuisd!</h2>
-			<p>We hebben een nieuwe locatie. Dit jaar verruilen we onze vertroude plek aan de Oude Larenseweg voor een nieuwe plek aan de Hassinklaan. 
-				Zo ongeveer waar het paasvuur de laatste jaren plaats vond.</p>
-			<p>Hopelijk kunnen jullie allemaal de weg vinden en zien we jullie daar de 31e vanaf 13:00 uur.</p>
-			<p>Tot dan!</p>
-			<p>P.S. Wie heeft die gruwelijk lelijke verhuiskaart uitgezocht?</p>
+			<h2>Carbid Festival terug van weg geweest</h2>
+			<p>2019 was de laatste editie van het Carbid Festival.<br />
+				De organisatie heeft afgelopen twee jaar geoefend met thuis carbid schieten, in navolging van de trend de we zagen dat thuiswerken ook steeds populaireder werd.</p>
+			<p>Toch voelde het nog niet helemaal zo vertrouwd, en daarom willen we dit jaar weer ouderweds op het bouwland samen met jullie allemaal het oude jaar uit knallen!</p>
 		</div>
 	</div>
 	
