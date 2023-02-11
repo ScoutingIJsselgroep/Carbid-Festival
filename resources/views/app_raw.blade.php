@@ -63,6 +63,7 @@
 @yield('content')
 	<div class="footer">
 		<a href="https://www.facebook.com/carbidfestival" target="_blank" class="facebook icon"><span class="small">facebook</span>.com/carbidfestival</a>
+		<a href="https://www.instagram.com/carbidfestivalepse" target="_blank" class="instagram icon"><span class="small">instagram</span>.com/carbidfestivalepse</a>
 		<a href="https://www.youtube.com/carbidfestival" target="_blank" class="youtube icon"><span class="small">youtube</span>.com/carbidfestival</a>
 		<a href="mailto:carbidfestival@gmail.com" class="mail icon">carbidfestival@g<span class="small">mail</span>.com</a>
 		<div class="clear"></div>

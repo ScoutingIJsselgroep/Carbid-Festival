@@ -57,6 +57,8 @@
 
 	<a href="http://www.debechtle.nl/" target="_blank"><img src="sponsors/bechtle.svg" alt="" /></a>
 
+	<a href="https://www.jumbo.com/winkel/jumbo-gorssel-brinkman" target="_blank"><img src="sponsors/jumbo-gorssel.svg" alt="" /></a>
+
 	<a href="https://www.enderink.nl/" target="_blank"><img src="sponsors/enderink.jpg" alt="" /></a>
 
 	<a href="http://www.petersepse.com/" target="_blank"><img class="sponsor" src="sponsors/peters-motorenrevisie.svg" alt="" /></a>

@@ -18,25 +18,27 @@
 	
 	<div class="row">
 		<div class="block image contain">
-			<img src="img/Op-kantoor-versus-thuiswerken.jpg" alt="Thuis werken" />
+			<img src="img/dwdd.png" alt="De wereld draait door" />
 		</div>
+		<div class="block text">
+			<h2>De wereld draait door!</h2>
+			<p>Helaas hebben we de meeste actuele thema's al wel een keer de revue laten paseren.
+				Putin is al eens ons doelwit geweest, dat de wereld verging stond in 10 jaar geleden al vast,
+				tijdens corona thuis de boze geesten verjagen vond de glasverzekering niet leuk. Daarom dit keer een 'tijdloos' thema:</p>
+			<p>De wereld draait door!</p>
+			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
+		</div>
+	</div>
+	
+	<div class="row">
 		<div class="block text">
 			<h2>Carbid Festival terug van weg geweest</h2>
 			<p>2019 was de laatste editie van het Carbid Festival.<br />
 				De organisatie heeft afgelopen twee jaar geoefend met thuis carbid schieten, in navolging van de trend de we zagen dat thuiswerken ook steeds populaireder werd.</p>
 			<p>Toch voelde het nog niet helemaal zo vertrouwd, en daarom willen we dit jaar weer ouderweds op het bouwland samen met jullie allemaal het oude jaar uit knallen!</p>
 		</div>
-	</div>
-	
-	<div class="row">
-		<div class="block text">
-			<h2>Make buurt, not war!</h2>
-			<p>Een nieuwe plek voor het Carbid Fesival. Dat is ook weer een mooie gelegenheid voor een leuk thema dit jaar.</p>
-			<p>Daarom het thema voor 2019: Make buurt, not war!</p>
-			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
-		</div>
-		<div class="block image cover">
-			<img src="img/make-buurt-breed.jpg" alt="Make buurt not war" />
+		<div class="block image contain">
+			<img src="img/Op-kantoor-versus-thuiswerken.jpg" alt="Thuis werken" />
 		</div>
 	</div>
 	
@@ -53,7 +55,7 @@
 				<li>Festival is een veelal jaarlijks terugkerend evenement van ge&Iuml;nteresseerden over een bepaald onderwerp.</li>
 			</ul>
 			<p>Omdat deze combinatie precies bij ons aansluit hebben we deze een jaar of wat geleden gekozen als vervanging van enkel 'carbid schieten' als naam voor ons evenement.</p>
-			<p>De 'naam' carbid schieten bevalt in plaats van festival het woord schieten, een werkwoord, dit suggereert wellicht ten onrechte dat het ons doel is hard te werken.<br />
+			<p>De 'naam' carbid schieten bevat in plaats van festival het woord schieten, een werkwoord, dit suggereert wellicht ten onrechte dat het ons doel is hard te werken.<br />
 				Ons doel is toch vooral een gezelig feest voor jong en oud, met een drankje en eventueel een hapje om het jaar samen af te sluiten.</p>
 		</div>
 	</div>
