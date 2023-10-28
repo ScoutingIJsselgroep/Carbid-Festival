@@ -3,6 +3,25 @@
 @section('title', 'Media')
 
 @section('content')
+
+	
+<div class="album">
+	<div class="description">
+		<h2>2022</h2>
+		<p>De wereld draait door!</p>
+	</div>
+
+	<?php
+	$imgs = glob(public_path() . '/album/2022/full/*.jpeg');
+	natsort($imgs);
+	?>
+	@foreach(array_values($imgs) as $key => $img)
+	<a id="2022_{{$key}}" name="afbeelding_2022_{{$key}}" href="album/2022/full/{{basename($img)}}"><img src="album/2022/thumb/{{basename($img)}}" alt="" /></a>
+	@endforeach
+	<a id="2022_video_1" class="icon video" name="media_2022_video_1" href="https://www.youtube.com/embed/VfI0Lv15Ltk"><img src="https://img.youtube.com/vi/VfI0Lv15Ltk/default.jpg" alt="Vuurwerk" /></a>
+	<a href="https://www.gld.nl/nieuws/7831450/kijk-hier-de-hoogtepunten-van-het-carbidschieten-terug" class="contain" target="blank" title="Bekijk ook het filmje van tv Gelderland"><img src="img/gld.png" alt="" /></a>
+</div>
+
 <div class="album">
 	<div class="description">
 		<h2>2019</h2>
@@ -219,12 +238,14 @@ function addSlide(a) {
 }
 document.getElements('.album a').each(function(a) {
 	a.addEvent('click', function(e) {
-		if(e) e.preventDefault();
-		if(window.location.hash != 'media_' + a.id) {
-			hashFromAction = true;
-			window.location.hash = 'media_' + a.id;
+		if(this.target != 'blank') {
+			if(e) e.preventDefault();
+			if(window.location.hash != 'media_' + a.id) {
+				hashFromAction = true;
+				window.location.hash = 'media_' + a.id;
+			}
+			addSlide(a);
 		}
-		addSlide(a);
 	});
 });
 window.addEvent('hashchange', function(e) {

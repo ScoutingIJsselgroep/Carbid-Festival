@@ -21,21 +21,20 @@
 			<img src="img/dwdd.png" alt="De wereld draait door" />
 		</div>
 		<div class="block text">
-			<h2>De wereld draait door!</h2>
-			<p>Helaas hebben we de meeste actuele thema's al wel een keer de revue laten paseren.
-				Putin is al eens ons doelwit geweest, dat de wereld verging stond in 10 jaar geleden al vast,
-				tijdens corona thuis de boze geesten verjagen vond de glasverzekering niet leuk. Daarom dit keer een 'tijdloos' thema:</p>
-			<p>De wereld draait door!</p>
-			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
+			<h2>Thema</h2>
+			<p>T'hef onze aandacht</p>
+			<p>Tot we wat verzonnen hebben kun je de eerdere thema&#39;s <a href="geschiedenis">terugkijken</a>.</p>
 		</div>
 	</div>
 	
 	<div class="row">
 		<div class="block text">
-			<h2>Carbid Festival terug van weg geweest</h2>
-			<p>2019 was de laatste editie van het Carbid Festival.<br />
-				De organisatie heeft afgelopen twee jaar geoefend met thuis carbid schieten, in navolging van de trend de we zagen dat thuiswerken ook steeds populaireder werd.</p>
-			<p>Toch voelde het nog niet helemaal zo vertrouwd, en daarom willen we dit jaar weer ouderweds op het bouwland samen met jullie allemaal het oude jaar uit knallen!</p>
+			<h2>Vrijwilligers gezocht</h2>
+			<p>Al heel wat jaren wordt het Carbid Festival opgezet door ongeveer het zelfde groepje vrijwilligers.<br />
+				Gelukkig kunnen we tijdens de opbouw en de dag zelf meestal rekenen op extra hulp!</p>
+			<p>Maar om ook na 2023 de organisatie soepel te kunnen laten verlopen zijn we op zoek naar enthousiaste vrijwilligers die zich willen inzetten voor verschillende taken<br />
+				Dat kan zijn van het regelen van de vergunning aanvraag, het beheren van het geld, onderhouden van de melkbussen tot het verzinnen van een leuk thema en aankleding of de promotie van het Carbid Festival.</p>
+			<p>Lijkt het je leuk om mee te helpen met een van deze taken, of heb je zelf een leuk idee, <a href="">mail ons dan!</a></p>
 		</div>
 		<div class="block image contain">
 			<img src="img/Op-kantoor-versus-thuiswerken.jpg" alt="Thuis werken" />

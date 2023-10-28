@@ -9,6 +9,21 @@
 @section('content')
 
 <div class="blocked-page">
+
+	<div class="row">
+		<div class="block text">
+			
+			<h2>De wereld draait door!</h2>
+			<p>Helaas hebben we de meeste actuele thema's al wel een keer de revue laten paseren.
+				Putin is al eens ons doelwit geweest, dat de wereld verging stond in 10 jaar geleden al vast,
+				tijdens corona thuis de boze geesten verjagen vond de glasverzekering niet leuk.</p>
+			<p>Ondanks alles een 'tijdloos' thema in 2022:
+				De wereld draait door!</p>
+		</div>
+		<div class="block image contain">
+			<img src="img/dwdd.png" alt="De wereld draait door" />
+		</div>
+	</div>
 	
 	<div class="row">
 		<div class="block image cover">
@@ -18,7 +33,6 @@
 			<h2>Make buurt, not war!</h2>
 			<p>Een nieuwe plek voor het Carbid Fesival. Dat is ook weer een mooie gelegenheid voor een leuk thema dit jaar.</p>
 			<p>Daarom het thema voor 2019: Make buurt, not war!</p>
-			<p>Eerdere thema&#39;s <a href="geschiedenis">terugkijken</a> kan natuurlijk ook.</p>
 		</div>
 	</div>
 
