@@ -18,12 +18,14 @@
 	
 	<div class="row">
 		<div class="block image contain">
-			<img src="img/dwdd.png" alt="De wereld draait door" />
+			<img src="img/onder-water-small.png" alt="De wereld draait door" />
 		</div>
 		<div class="block text">
-			<h2>Thema</h2>
-			<p>T'hef onze aandacht</p>
-			<p>Tot we wat verzonnen hebben kun je de eerdere thema&#39;s <a href="geschiedenis">terugkijken</a>.</p>
+			<h2>Thema: Onder water</h2>
+			<p>Water is van levensbelang, ook voor carbid schieten.</p>
+			<p>Het plan: we zetten een beetje carbid onderwater, in een melkbus, en kijken dan even hoe dat gaat.</p>
+			<p>Voor de rest wat thema betreft, laten we hopen dat de rest van het terrein wat minder in dit thema is dan in 2022!</p>
+			<p>Bekijk ook de eerdere thema&#39;s <a href="geschiedenis">terugkijken</a>.</p>
 		</div>
 	</div>
 	
