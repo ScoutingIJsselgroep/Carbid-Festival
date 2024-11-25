@@ -10,6 +10,19 @@
 
 <div class="blocked-page">
 
+
+	<div class="row">
+		<div class="block image contain">
+			<img src="img/onder-water-small.png" alt="Onder water" />
+		</div>
+		<div class="block text">
+			<h2>Onder water</h2>
+			<p>Water is van levensbelang, ook voor carbid schieten.</p>
+			<p>Het plan voor 2023: we zetten een beetje carbid onderwater, in een melkbus, en kijken dan even hoe dat gaat.</p>
+			<p>Laten we hopen dat de het terrein wat minder in dit thema is dan het Carbid Festival van 2022!</p>
+		</div>
+	</div>
+
 	<div class="row">
 		<div class="block text">
 			
