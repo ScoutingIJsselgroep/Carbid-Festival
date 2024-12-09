@@ -47,8 +47,15 @@
 </div>
 
 <div class="listrow">
+	<a href="https://dutchview.com/" target="_blank"><img src="sponsors/dutchview.svg" alt="" /></a>
 
-	<a href="https://looox.nl/" target="_blank"><img src="sponsors/looox.svg" alt="" /></a>
+	<a href="https://looox.nl/" target="_blank"><img src="sponsors/looox-green.svg" alt="" /></a>
+
+	<a href="https://oaxliving.com/" target="_blank"><img src="sponsors/oaxliving.svg" alt="" /></a>	
+
+	<a href="https://www.floormaxx.nl/" target="_blank"><img class="sponsor" src="sponsors/floormaxx.svg" alt="" /></a>
+
+	<a href="https://gerstloautomotive.nl/" target="_blank"><img class="sponsor" src="sponsors/gerstlo.svg" alt="" /></a>
 
 	<a href="https://www.boomverzorger.nl/" target="_blank"><img class="sponsor" src="sponsors/boomverzorger.svg" alt="" /></a>
 		
@@ -94,7 +101,7 @@
 
 	<a href="https://www.loxam.nl/" target="_blank"><img class="sponsor" src="sponsors/loxam.svg" alt="" /></a>
 
-	<a href="https://www.facebook.com/profile.php?id=61553097126146" target="_blank"><img class="sponsor" src="sponsors/houten-hollander.svg" alt="" /></a>
+	<a href="https://dehoutenhollander.nl/nl" target="_blank"><img class="sponsor" src="sponsors/de-houten-hollander.svg" alt="" /></a>
 
 	<a href="http://www.scouting-ijsselgroep.nl/" target="_blank"><img src="sponsors/scouting_ijsselgroep_gorssel.png" alt="" /></a>
 
