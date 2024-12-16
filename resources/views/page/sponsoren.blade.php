@@ -47,19 +47,26 @@
 </div>
 
 <div class="listrow">
-	<a href="https://dutchview.com/" target="_blank"><img src="sponsors/dutchview.svg" alt="" /></a>
 
 	<a href="https://looox.nl/" target="_blank"><img src="sponsors/looox-green.svg" alt="" /></a>
 
 	<a href="https://oaxliving.com/" target="_blank"><img src="sponsors/oaxliving.svg" alt="" /></a>	
 
+	<a href="https://dutchview.com/" target="_blank"><img src="sponsors/dutchview.svg" alt="" /></a>
+
+	<a><img src="sponsors/bingo-boys.svg" alt="" /></a>
+	
+	<a href="http://acbouwbedrijf.nl/" target="_blank"><img src="sponsors/alberts-en-de-croon.svg" alt="" /></a>
+
+	<a href="https://www.boomverzorger.nl/" target="_blank"><img class="sponsor" src="sponsors/boomverzorger.svg" alt="" /></a>
+
+	<a href="https://www.willembokkinga.nl/" target="_blank"><img class="sponsor" src="sponsors/willem_bokkinga.svg" alt="" /></a>
+
 	<a href="https://www.floormaxx.nl/" target="_blank"><img class="sponsor" src="sponsors/floormaxx.svg" alt="" /></a>
 
 	<a href="https://gerstloautomotive.nl/" target="_blank"><img class="sponsor" src="sponsors/gerstlo.svg" alt="" /></a>
 
-	<a href="https://www.boomverzorger.nl/" target="_blank"><img class="sponsor" src="sponsors/boomverzorger.svg" alt="" /></a>
-		
-	<a href="http://acbouwbedrijf.nl/" target="_blank"><img src="sponsors/alberts-en-de-croon.svg" alt="" /></a>
+	<a href="tel:+31620535640" target="_blank"><img class="sponsor" src="sponsors/de_hoek_epse.svg" alt="" /></a>
 
 	<a href="https://www.degoedeslagerij.nl/" target="_blank"><img src="sponsors/degoedeslagerij.svg" alt="" /></a>
 
