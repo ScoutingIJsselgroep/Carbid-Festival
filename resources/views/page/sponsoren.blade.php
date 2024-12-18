@@ -62,6 +62,8 @@
 
 	<a href="https://www.willembokkinga.nl/" target="_blank"><img class="sponsor" src="sponsors/willem_bokkinga.svg" alt="" /></a>
 
+	<a href="https://autoservicedewild.nl/" target="_blank"><img class="sponsor" src="sponsors/autoservice-de-wild.png" alt="" /></a>
+
 	<a href="https://www.floormaxx.nl/" target="_blank"><img class="sponsor" src="sponsors/floormaxx.svg" alt="" /></a>
 
 	<a href="https://gerstloautomotive.nl/" target="_blank"><img class="sponsor" src="sponsors/gerstlo.svg" alt="" /></a>
