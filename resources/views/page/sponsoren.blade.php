@@ -32,7 +32,7 @@
 				mocht dat niet mogelijk zijn dan een zo hoog mogelijke resolutie.</p>
 				
 
-			<p>Hieronder alle sponsors die ons voor editie 2023 (weer) steunen bij het mogelijk maken van ons evenement, dank daarvoor allemaal!</p>
+			<p>Hieronder alle sponsors die ons voor editie 2024 (weer) steunen bij het mogelijk maken van ons evenement, dank daarvoor allemaal!</p>
 
 		</div>
 
@@ -73,8 +73,6 @@
 	<a href="https://www.degoedeslagerij.nl/" target="_blank"><img src="sponsors/degoedeslagerij.svg" alt="" /></a>
 
 	<a href="http://www.debechtle.nl/" target="_blank"><img src="sponsors/bechtle.svg" alt="" /></a>
-
-	<a href="https://www.eetcafe-dehoek.nl/" target="_blank"><img src="sponsors/de-hoek.svg" alt="" /></a>
 
 	<a href="https://www.luijendijk-hoveniers.nl/" target="_blank"><img src="sponsors/luijendijk.svg" alt="" /></a>
 
