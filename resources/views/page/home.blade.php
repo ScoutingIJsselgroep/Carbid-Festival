@@ -23,7 +23,7 @@
 		<div class="block text">
 			<h2>Thema?!?</h2>
 			<p>Elk jaar hebben we een thema om het Carbid Festival een beetje aan te kleden.</p>
-			<p>In 2024 ook? We denken er nog even over na...</p>
+			<p>In 2025 ook? We denken er nog even over na...</p>
 			<p>Bekijk de eerdere thema&#39;s <a href="geschiedenis">terugkijken</a>.</p>
 		</div>
 	</div>
@@ -33,7 +33,7 @@
 			<h2>Vrijwilligers gezocht</h2>
 			<p>Al heel wat jaren wordt het Carbid Festival opgezet door ongeveer het zelfde groepje vrijwilligers.<br />
 				Gelukkig kunnen we tijdens de opbouw en de dag zelf meestal rekenen op extra hulp!</p>
-			<p>Maar om ook na 2023 de organisatie soepel te kunnen laten verlopen zijn we op zoek naar enthousiaste vrijwilligers die zich willen inzetten voor verschillende taken<br />
+			<p>Maar om ook na 2025 de organisatie soepel te kunnen laten verlopen zijn we op zoek naar enthousiaste vrijwilligers die zich willen inzetten voor verschillende taken<br />
 				Dat kan zijn van het regelen van de vergunning aanvraag, het beheren van het geld, onderhouden van de melkbussen tot het verzinnen van een leuk thema en aankleding of de promotie van het Carbid Festival.</p>
 			<p>Lijkt het je leuk om mee te helpen met een van deze taken, of heb je zelf een leuk idee, <a href="">mail ons dan!</a></p>
 		</div>

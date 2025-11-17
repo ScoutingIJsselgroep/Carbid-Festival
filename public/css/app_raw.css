@@ -1177,6 +1177,14 @@ nav #navbar-button {
 
 }
 
+.footer a.instagram:before {
+
+content: "\ea90";
+
+color: #df00aa;
+
+}
+
 .footer a.youtube:before {
 
 	content: "\ea99";

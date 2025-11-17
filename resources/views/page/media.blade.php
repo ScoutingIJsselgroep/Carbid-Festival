@@ -4,7 +4,36 @@
 
 @section('content')
 
+
+<div class="album">
+	<div class="description">
+		<h2>2024</h2>
+		<p>Baby boom</p>
+
+		<p>Door Eddy Boerman</p>
+	</div>
+
+	<?php
+	$imgs = glob(public_path() . '/album/2024/full/*.jpeg');
+	natsort($imgs);
+	?>
+	@foreach(array_values($imgs) as $key => $img)
+	<a id="2024_{{$key}}" name="afbeelding_2024_{{$key}}" href="album/2024/full/{{basename($img)}}"><img src="album/2024/thumb/{{basename($img)}}" alt="" /></a>
+	@endforeach
+	<a href="https://rtvideaal.nl/fotoboek/#bwg1343/58523" target="blank" title="Fotoalbum RTV Ideaal deel 1"><img src="img/ideaal.png" alt="Ideaal" /></a>
+	<a href="https://rtvideaal.nl/fotoboek/#bwg1344/58585" target="blank" title="Fotoalbum RTV Ideaal deel 2"><img src="img/ideaal.png" alt="Ideaal" /></a>
+	<a href="https://rtvideaal.nl/fotoboek/#bwg1345/58612" target="blank" title="Fotoalbum RTV Ideaal deel 3"><img src="img/ideaal.png" alt="Ideaal" /></a>
+</div>
+
+<div class="album">
+	<div class="description">
+		<h2>2023</h2>
+		<p>Onder water</p>
+	</div>
+
 	
+</div>
+
 <div class="album">
 	<div class="description">
 		<h2>2022</h2>

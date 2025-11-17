@@ -12,6 +12,17 @@
 
 
 	<div class="row">
+		<div class="block text">
+			<h2>Baby boom!</h2>
+			<p>Carbid Festival 2024 is vooral een feest voor alle leeftijden!</p>
+			<p>Alleen de ooievaar moet even oppassen dat 'ie niet vlak voor de melkbussen langs vliegt.</p>
+		</div>
+		<div class="block image contain">
+			<img src="img/baby.png" alt="Onder water" />
+		</div>
+	</div>
+
+	<div class="row">
 		<div class="block image contain">
 			<img src="img/onder-water-small.png" alt="Onder water" />
 		</div>
