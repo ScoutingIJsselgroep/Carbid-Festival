@@ -22,7 +22,7 @@
 		</div>
 		<div class="block text">
 			<h2>Eten en drinken</h2>
-			<p>In de feesttent is er de mogelijkheid om een hapje en drankje te bestellen. Dit kan uiteraard niet voor niets. Een biertje kost bijvoorbeeld €2,00. We accepteren ook de gele Carbid Festival munten die eerdere edities zijn gekocht.</p>
+			<p>In de feesttent is er de mogelijkheid om een hapje en drankje te bestellen. Dit kan uiteraard niet voor niets. Een biertje kost bijvoorbeeld €2,50. We accepteren ook de gele Carbid Festival munten die eerdere edities zijn gekocht.</p>
 		</div>
 	</div>
 	
