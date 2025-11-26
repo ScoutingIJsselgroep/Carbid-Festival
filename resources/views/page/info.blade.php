@@ -59,8 +59,42 @@
 	</div>
 	
 	<div class="row">
-		<div class="block image map">
-			<iframe style="border: none; width: 100%; height: 295px;" src="https://www.openstreetmap.org/export/embed.html?bbox=6.193274259567262%2C52.21617262085548%2C6.203606128692628%2C52.221082668893715&amp;layer=mapnik" width="300" height="295" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+		<div class="block map">
+			<div id="map" style="height: 295px;"></div>
+
+			<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+			<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+			<script>
+				var map = L.map('map').setView([52.218568, 6.199736], 16);
+
+				L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					attribution: '&copy; OpenStreetMap'
+				}).addTo(map);
+
+				// Gele marker (SVG)
+				let yellowIcon = L.divIcon({
+					className: "",
+					html: `
+						<svg width="32" height="32" viewBox="0 0 24 24">
+							<defs>
+								<filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+									<feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.4)" />
+								</filter>
+							</defs>
+
+							<g filter="url(#shadow)">
+								<path fill="#FFFF00" d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z"/>
+								<circle cx="12" cy="9" r="3" fill="#ccc"/>
+							</g>
+						</svg>
+					`,
+					iconSize: [32, 32],
+					iconAnchor: [16, 32]
+				});
+
+				// Marker toevoegen
+				L.marker([52.218568, 6.199736], { icon: yellowIcon }).addTo(map);
+			</script>
 		</div>
 		<div class="block text">
 			<h2>Locatie</h2>
