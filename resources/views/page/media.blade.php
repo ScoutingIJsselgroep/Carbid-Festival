@@ -29,8 +29,16 @@
 	<div class="description">
 		<h2>2023</h2>
 		<p>Onder water</p>
+		<p>Door Tristan de Boer</p>
 	</div>
 
+	<?php
+	$imgs = glob(public_path() . '/album/2023/full/*.jpeg');
+	natsort($imgs);
+	?>
+	@foreach(array_values($imgs) as $key => $img)
+	<a id="2023_{{$key}}" name="afbeelding_2023_{{$key}}" href="album/2023/full/{{basename($img)}}"><img src="album/2023/thumb/{{basename($img)}}" alt="" /></a>
+	@endforeach
 	
 </div>
 
