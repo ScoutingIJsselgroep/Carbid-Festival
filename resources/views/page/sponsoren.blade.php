@@ -32,7 +32,7 @@
 				mocht dat niet mogelijk zijn dan een zo hoog mogelijke resolutie.</p>
 				
 
-			<p>Hieronder alle sponsors die ons voor editie 2024 (weer) steunen bij het mogelijk maken van ons evenement, dank daarvoor allemaal!</p>
+			<p>Hieronder alle sponsors die ons voor editie 2025 (weer) steunen bij het mogelijk maken van ons evenement, dank daarvoor allemaal!</p>
 
 		</div>
 
@@ -87,8 +87,6 @@
 	<a href="http://www.petersepse.com/" target="_blank"><img class="sponsor" src="sponsors/peters-motorenrevisie.svg" alt="" /></a>
 
 	<a href="https://i-design.nu/" target="_blank"><img src="sponsors/i-design.svg" alt="" /></a>
-
-	<a href="https://www.tuinengaschilderwerken.nl/" target="_blank"><img src="sponsors/tuinenga.png" alt="" /></a>
 	
 	<a href="http://www.kamphuis-epse.nl/" target="_blank"><img src="sponsors/kamphuis.svg" alt="" /></a>
 
@@ -118,6 +116,7 @@
 
 	<a title="Sponsorfolder Carbid Festival" href="mailto:carbidfestival@gmail.com?subject=Interesse%20als%20sponsor"><img src="sponsors/uwlogohier.png" alt="" /></a>
 
+	{{-- <a href="https://www.tuinengaschilderwerken.nl/" target="_blank"><img src="sponsors/tuinenga.png" alt="" /></a> --}}
 	{{-- <a href="mailto:info@adviesbureautjallema.nl"><img src="sponsors/adviesbureau_tjallema.png" alt="" /></a> --}}
 </div>
 
