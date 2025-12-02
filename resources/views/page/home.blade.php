@@ -18,12 +18,14 @@
 	
 	<div class="row">
 		<div class="block image contain">
-			<img src="img/onder-water-small.png" alt="Onder water" />
+			<img src="img/geschoten-500.png" alt="Niet geschoten is altijd mis!" />
 		</div>
 		<div class="block text">
-			<h2>Thema?!?</h2>
+			<h2>Niet geschoten is altijd mis!</h2>
 			<p>Elk jaar hebben we een thema om het Carbid Festival een beetje aan te kleden.</p>
-			<p>In 2025 ook? We denken er nog even over na...</p>
+			<p>Dit jaar na lang beraad: "Niet geschoten is altijd mis!"<br />
+				Wederom geïnspireerd door onze vriend Vladimir Poetin, zijn collega Benjamin Netanyahu, en een handje vol enthousiaste Ajax "supporters".<br />
+				Maar de belangrijkste reden voor het thema van dit jaar is dat deze jaarwisseling is het laatste jaar dat we tussen 18.00 en 02.00 vuurwerk af mogen steken.</p>
 			<p>Bekijk de eerdere thema&#39;s <a href="geschiedenis">terugkijken</a>.</p>
 		</div>
 	</div>
@@ -35,7 +37,7 @@
 				Gelukkig kunnen we tijdens de opbouw en de dag zelf meestal rekenen op extra hulp!</p>
 			<p>Maar om ook na 2025 de organisatie soepel te kunnen laten verlopen zijn we op zoek naar enthousiaste vrijwilligers die zich willen inzetten voor verschillende taken<br />
 				Dat kan zijn van het regelen van de vergunning aanvraag, het beheren van het geld, onderhouden van de melkbussen tot het verzinnen van een leuk thema en aankleding of de promotie van het Carbid Festival.</p>
-			<p>Lijkt het je leuk om mee te helpen met een van deze taken, of heb je zelf een leuk idee, <a href="">mail ons dan!</a></p>
+			<p>Lijkt het je leuk om mee te helpen met een van deze taken, of heb je zelf een leuk idee, <a href="mailto:carbidfestival@gmail.com">mail ons dan!</a></p>
 		</div>
 		<div class="block image contain">
 			<img src="img/Op-kantoor-versus-thuiswerken.jpg" alt="Thuis werken" />

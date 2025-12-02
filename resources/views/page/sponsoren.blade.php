@@ -48,6 +48,8 @@
 
 <div class="listrow">
 
+	<a href="https://vogelstuinentechniek.nl/" target="_blank"><img src="sponsors/vogels.svg" alt="" /></a>
+
 	<a href="https://looox.nl/" target="_blank"><img src="sponsors/looox-green.svg" alt="" /></a>
 
 	<a href="https://oaxliving.com/" target="_blank"><img src="sponsors/oaxliving.svg" alt="" /></a>	
@@ -65,6 +67,8 @@
 	<a href="https://autoservicedewild.nl/" target="_blank"><img class="sponsor" src="sponsors/autoservice-de-wild.png" alt="" /></a>
 
 	<a href="https://www.floormaxx.nl/" target="_blank"><img class="sponsor" src="sponsors/floormaxx.svg" alt="" /></a>
+
+	<a href="https://www.karelservicebedrijf.nl/" target="_blank"><img class="sponsor" src="sponsors/karel-service-bedrijf.svg" alt="" /></a>
 
 	<a href="https://gerstloautomotive.nl/" target="_blank"><img class="sponsor" src="sponsors/gerstlo.svg" alt="" /></a>
 
@@ -84,21 +88,21 @@
 
 	<a href="https://i-design.nu/" target="_blank"><img src="sponsors/i-design.svg" alt="" /></a>
 
-	<a href="mailto:info@adviesbureautjallema.nl"><img src="sponsors/adviesbureau_tjallema.png" alt="" /></a>
-	
 	<a href="https://www.tuinengaschilderwerken.nl/" target="_blank"><img src="sponsors/tuinenga.png" alt="" /></a>
 	
 	<a href="http://www.kamphuis-epse.nl/" target="_blank"><img src="sponsors/kamphuis.svg" alt="" /></a>
 
 	<a href="http://depoortejoppe.nl/" target="_blank"><img class="sponsor" src="sponsors/de-poorte-joppe.png" alt="" /></a>
 	
-	<a href="https://www.roelvoskamphovenier.nl/" target="_blank"><img src="sponsors/roel-voskamp.svg" alt="" /></a>
+	<a href="https://www.roelvoskamphovenier.nl/" target="_blank"><img src="sponsors/roel-voskamp-2025.svg" alt="" /></a>
 
 	<a href="https://hoveniersbedrijfbreunissen.nl/" target="_blank"><img class="sponsor" src="sponsors/breunissen.svg" alt="" /></a>
 
 	<a href="https://tsb-ict.nl/" target="_blank"><img class="sponsor" src="sponsors/tsb.svg" alt="" /></a>
 
 	<a href="http://www.tuwi.nl/" target="_blank"><img class="sponsor" src="sponsors/tuwi.svg" alt="" /></a>
+
+	<a href="https://mcdonaldsrestaurant.nl/deventer" target="_blank"><img class="sponsor" src="sponsors/mcdonalds.svg" alt="" /></a>
 
 	<a href="https://autovakmeester.nl/vestiging/preuter/" target="_blank"><img class="sponsor" src="sponsors/autovakmeester-preuter.svg" alt="" /></a>
 
@@ -114,6 +118,7 @@
 
 	<a title="Sponsorfolder Carbid Festival" href="mailto:carbidfestival@gmail.com?subject=Interesse%20als%20sponsor"><img src="sponsors/uwlogohier.png" alt="" /></a>
 
+	{{-- <a href="mailto:info@adviesbureautjallema.nl"><img src="sponsors/adviesbureau_tjallema.png" alt="" /></a> --}}
 </div>
 
 <div class="blocked-page">
