@@ -25,7 +25,7 @@
 			<p>Elk jaar hebben we een thema om het Carbid Festival een beetje aan te kleden.</p>
 			<p>Dit jaar na lang beraad: "Niet geschoten is altijd mis!"<br />
 				Wederom geïnspireerd door onze vriend Vladimir Poetin, zijn collega Benjamin Netanyahu, en een handje vol enthousiaste Ajax "supporters".<br />
-				Maar de belangrijkste reden voor het thema van dit jaar is dat deze jaarwisseling is het laatste jaar dat we tussen 18.00 en 02.00 vuurwerk af mogen steken.</p>
+				Maar de belangrijkste reden voor het thema van dit jaar is dat deze jaarwisseling de laatste keer is dat we tussen 18.00 en 02.00 vuurwerk af mogen steken.</p>
 			<p>Bekijk de eerdere thema&#39;s <a href="geschiedenis">terugkijken</a>.</p>
 		</div>
 	</div>
