@@ -78,6 +78,8 @@
 
 	<a href="http://www.debechtle.nl/" target="_blank"><img src="sponsors/bechtle.svg" alt="" /></a>
 
+	<a href="https://grillmaatjes.online/" target="_blank"><img src="sponsors/grillmaatje.svg" alt="" /></a>
+
 	<a href="https://www.luijendijk-hoveniers.nl/" target="_blank"><img src="sponsors/luijendijk.svg" alt="" /></a>
 
 	<a href="https://www.hansengrietjedeventer.nl/" target="_blank"><img src="sponsors/hans-en-grietje.svg" alt="" /></a>
@@ -112,7 +114,7 @@
 
 	<a href="https://dehoutenhollander.nl/nl" target="_blank"><img class="sponsor" src="sponsors/de-houten-hollander.svg" alt="" /></a>
 
-	<a href="http://www.scouting-ijsselgroep.nl/" target="_blank"><img src="sponsors/scouting_ijsselgroep_gorssel.png" alt="" /></a>
+	<a href="http://www.scouting-ijsselgroep.nl/" target="_blank"><img src="sponsors/ijsselgroep.svg" alt="" /></a>
 
 	<a title="Sponsorfolder Carbid Festival" href="mailto:carbidfestival@gmail.com?subject=Interesse%20als%20sponsor"><img src="sponsors/uwlogohier.png" alt="" /></a>
 
